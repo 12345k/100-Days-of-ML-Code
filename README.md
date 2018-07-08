@@ -15,3 +15,9 @@
 **Thoughts** : Can't understand girdsearch properlly but tried to implement it.
 
 **Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/support-vector-machines-project)
+
+## Day 2 : July 08 , 2018
+
+**Today's Progress** :Studied on K means algorithm.Understand the theory part behind it
+
+**Thoughts** : More confident to work on dataset.
