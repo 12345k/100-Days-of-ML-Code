@@ -21,3 +21,11 @@
 **Today's Progress** :Studied on K means algorithm.Understand the theory part behind it
 
 **Thoughts** : More confident to work on dataset.
+
+## Day 3 : July 09 , 2018
+
+**Today's Progress** :Worked on K Means Algorithm and applied in a dataset. Worked on [U.S. News and World Report’s College Data](https://www.kaggle.com/flyingwombat/us-news-and-world-reports-college-data)
+
+**Thoughts** : Understand clustering very well.Tomorrow going to work in PCA
+
+**Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/k-means-clustering-project)
