@@ -29,3 +29,11 @@
 **Thoughts** : Understand clustering very well.Tomorrow going to work in PCA
 
 **Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/k-means-clustering-project)
+
+
+## Day 4 : July 10 , 2018
+
+**Today's Progress** : Studied Principal component analysis (PCA). Registred Hackerearth challenge (Predict the damage to a building)
+
+**Thoughts** : Understand the use of PCA.Tomorrow going to start NLP basic project (spam or not mail)
+
