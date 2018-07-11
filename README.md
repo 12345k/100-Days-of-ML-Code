@@ -37,3 +37,8 @@
 
 **Thoughts** : Understand the use of PCA.Tomorrow going to start NLP basic project (spam or not mail)
 
+## Day 5 : July 11 , 2018
+
+**Today's Progress** : Studied NLP. Expolred the dataset and done some basic dataset analysis. 
+
+**Thoughts** : Try to figure out which algorithm is best. 
