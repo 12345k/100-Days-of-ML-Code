@@ -42,3 +42,17 @@
 **Today's Progress** : Studied NLP. Expolred the dataset and done some basic dataset analysis. 
 
 **Thoughts** : Try to figure out which algorithm is best. 
+
+
+## Day 6 : July 12 , 2018
+
+**Today's Progress** : Worked on [SpaceX Launch Data](https://www.kaggle.com/scoleman/spacex-launch-data)
+
+**Thoughts** : This is a small dataset.So i just decided to understand the importance of data visualization. Without using the data visualization I tried to find insights in dataset.Hopefully I found two insights
+
+**Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/without-data-visualization)
+
+
+
+
+
