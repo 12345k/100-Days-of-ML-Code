@@ -52,6 +52,12 @@
 
 **Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/without-data-visualization)
 
+## Day 7 : July 13 , 2018
+
+**Today's Progress** : Studied the basice of tensorflow.
+
+**Thoughts** : Hope will explore a lot in that.
+
 
 
 
