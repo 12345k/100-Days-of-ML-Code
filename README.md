@@ -58,6 +58,14 @@
 
 **Thoughts** : Hope will explore a lot in that.
 
+## Day 8 : July 16 , 2018
+
+**Today's Progress** : Worked on MNIST Dataset
+
+**Thoughts** : Want to understand more
+
+
+
 
 
 
