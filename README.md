@@ -64,6 +64,16 @@
 
 **Thoughts** : Want to understand more
 
+## Day 9 : July 17 , 2018
+
+**Today's Progress** : Worked on [Bank notes](https://www.kaggle.com/aariyan101/bank-notes).Used tensorflow DNN Classifier
+
+**Thoughts** : Way to go in deep learning.
+
+**Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/dnnclassifier)
+
+
+
 
 
 
