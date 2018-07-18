@@ -73,7 +73,11 @@
 **Link of Work:**   [Commit](https://www.kaggle.com/karthickaravindan/dnnclassifier)
 
 
+## Day 10 : July 18 , 2018
 
+**Today's Progress** : Started to learn Deep learning.Covered some basic theory.
+
+**Thoughts** : Way to go in deep learning.
 
 
 
