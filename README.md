@@ -80,6 +80,11 @@
 **Thoughts** : Way to go in deep learning.
 
 
+## Day 11 : July 19 , 2018
+
+**Today's Progress** : Finace in AI,Studied basics of finanace.
+
+**Thoughts** : New hights to go.
 
 
 
