@@ -86,6 +86,13 @@
 
 **Thoughts** : New hights to go.
 
+## Day 12 : July 19 , 2018
+
+**Today's Progress** : How to do optimization?
+
+**Thoughts** : clearly I have no idea how to do optimization
+
+
 
 
 
