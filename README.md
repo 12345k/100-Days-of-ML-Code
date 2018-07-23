@@ -92,6 +92,24 @@
 
 **Thoughts** : clearly I have no idea how to do optimization
 
+## Day 13 : July 20 , 2018
+
+**Today's Progress** : Learnt Genectic Algorithm
+
+**Thoughts** : How to apply in Finanace dataset.
+
+## Day 14 : July 21 , 2018
+
+**Today's Progress** : QuantConnect platform.Tried to do backtesting on it.
+
+**Thoughts** : Its is very challenging to do optimization.
+
+## Day 15 : July 22 , 2018
+
+**Today's Progress** : Learnt basics of Neural Network.
+
+**Thoughts** : Cant understand the Label Encoder and one-Hot Encoder.
+
 
 
 
