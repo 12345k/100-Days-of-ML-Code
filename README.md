@@ -104,11 +104,19 @@
 
 **Thoughts** : Its is very challenging to do optimization.
 
-## Day 15 : July 22 , 2018
+## Day 15 : July 23 , 2018
 
 **Today's Progress** : Learnt basics of Neural Network.
 
 **Thoughts** : Cant understand the Label Encoder and one-Hot Encoder.
+
+## Day 16 : July 24 , 2018
+
+**Today's Progress** : Used Posenet Model. Thanks to siraj for the video.
+
+**Thoughts** : It is super cool to see the result.
+
+**Link of Work:**   [Commit](https://www.linkedin.com/feed/update/urn:li:activity:6427348565911269376)
 
 
 
