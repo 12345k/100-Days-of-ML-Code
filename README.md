@@ -119,6 +119,49 @@
 **Link of Work:**   [Commit](https://www.linkedin.com/feed/update/urn:li:activity:6427348565911269376)
 
 
+## Day 17 : July 25 , 2018
+
+**Today's Progress** : Studied UI path for webscarping 
+
+**Thoughts** : Its is very challenge.
+
+## Day 18 : July 26 , 2018
+
+**Today's Progress** : Tried to automation on website.
+
+**Thoughts** : Better to understand.
+
+## Day 19 : July 27 , 2018
+
+**Today's Progress** : Studied multinomial naive bayes.
+
+**Thoughts** : Will work on Text classification.
+
+## Day 20 : July 28 , 2018
+
+**Today's Progress** : Learnt Colab research tool.
+
+**Thoughts** : It is awsome tool to use.
+
+## Day 21 : July 30 , 2018
+
+**Today's Progress** : Made a mode in multinomial naive bayes for text classification using colab.
+
+**Thoughts** : Very challenge to download model using google drive.
+
+**Link of Work:**   [Commit](https://github.com/12345k/100-Days-of-ML-Code/blob/master/text_classification_1.ipynb)
+
+## Day 22 : July 31 , 2018
+
+**Today's Progress** : Deployed this model in website.
+
+**Thoughts** : It is cool to see the outpuut in web application
+
+**Link of Work:**   [Commit]( http://52.45.171.205:3500)
+
+
+
+
 
 
 
