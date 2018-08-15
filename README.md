@@ -159,6 +159,43 @@
 
 **Link of Work:**   [Commit]( http://52.45.171.205:3500)
 
+## Day 23 : August  1 , 2018
+
+**Today's Progress** : Studied baics of opencv.
+
+**Thoughts** :  Planning to make more apps on that
+
+
+## Day 24 : August  2 , 2018
+
+**Today's Progress** : Saw a amzeing website pyimage search.
+
+**Thoughts** :  I will share the link below
+
+**Link of Work:**   [Commit]( https://www.pyimagesearch.com/)
+
+
+## Day 25 : August  5 , 2018
+
+**Today's Progress** : Praticed some tutorials  .
+
+**Thoughts** : Intersting to learn
+
+## Day 26 : August  6 , 2018
+
+**Today's Progress** : Made a object tracking using opencv .
+
+**Thoughts** : creditsa goes to pyimage search
+
+
+
+
+
+
+
+
+
+
 
 
 
